@@ -76,7 +76,7 @@ logo =
 \033[1;96mAuthor  \033[1;93m: \033[1;92Salman khan
 \033[1;96mYou tube \033[1;93m: \033[1;Grand Tricks and Official Channel
 \033[1;96mFacebook  \033[1;93m: \033[1; S4LM4N.K.007
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SalmanK007
 \033[1;91m======================================="""
 
 def tik():
@@ -100,7 +100,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92Salman Khan
 \033[1;96mInstagram \033[1;93m: \033[1;92SalmanKhan751
 \033[1;96mFacebook  \033[1;93m: \033[1;92S4LM4N.K.007
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/SalmanK007
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
